@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/E-commarce-webapp-3/static/css/main.f3b22424.css",
+    "main.js": "/E-commarce-webapp-3/static/js/main.2eea7653.js",
+    "static/media/logo.svg": "/E-commarce-webapp-3/static/media/logo.1149124a1c251487318b01bc228cf37c.svg",
+    "static/media/slick.svg": "/E-commarce-webapp-3/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-commarce-webapp-3/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-commarce-webapp-3/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-commarce-webapp-3/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-commarce-webapp-3/index.html",
+    "main.f3b22424.css.map": "/E-commarce-webapp-3/static/css/main.f3b22424.css.map",
+    "main.2eea7653.js.map": "/E-commarce-webapp-3/static/js/main.2eea7653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b22424.css",
+    "static/js/main.2eea7653.js"
+  ]
+}
